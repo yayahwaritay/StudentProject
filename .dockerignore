@@ -1,0 +1,34 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.vs
+.vscode
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Test files
+*Tests.csproj
+*.testrunconfig
+
+# Documentation
+*.md
+README*
+
+# Docker
+Dockerfile*
+.dockerignore
+
+# IDE specific files
+.idea/
+
+# Logs
+*.log
+
+# Local config files that shouldn't be included
+appsettings.Development.json
