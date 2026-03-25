@@ -44,7 +44,7 @@ namespace StudentProject.Controllers
             await _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction(nameof(user), new { message = "User registered successfully" });
+            return Created($"register", new { message = "User registered successfully", userId = user.Id });
         }
 
         [HttpPost("login")]

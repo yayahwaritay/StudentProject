@@ -111,3 +111,4 @@ C:\Users\hywar\source\repos\StudentProject\StudentProject\obj\Debug\net8.0\refin
 C:\Users\hywar\source\repos\StudentProject\StudentProject\obj\Debug\net8.0\StudentProject.pdb
 C:\Users\hywar\source\repos\StudentProject\StudentProject\obj\Debug\net8.0\StudentProject.genruntimeconfig.cache
 C:\Users\hywar\source\repos\StudentProject\StudentProject\obj\Debug\net8.0\ref\StudentProject.dll
+C:\Users\hywar\source\repos\StudentProject\StudentProject\obj\Debug\net8.0\StudentProject.sourcelink.json
